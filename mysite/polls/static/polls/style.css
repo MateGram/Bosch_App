@@ -42,10 +42,6 @@ svg {
 }
 
 /* Moving other applicant whenever user mouse hovers on graphics */
-#applicant {
-
-}
-
 #applicant:hover {
     transform: translate3d(22rem, 0, 0);
     -moz-transform: translate(22rem, 0);
