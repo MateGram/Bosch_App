@@ -1,0 +1,56 @@
+.headline {
+    line-height: 5rem;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #7fa389;
+    color: 	#064a6c;
+}
+
+svg {
+    width: 75%;
+}
+
+.bosch{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.sam-label {
+    font-size: 2rem;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.applicant-label {
+    font-size: 2rem;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 55%;
+}
+
+#sam:hover {
+    stroke: whitesmoke;
+    stroke-width: 5px;
+    -moz-transform: translate(0, -10px);
+    -ms-transform: translate(0, -10px);
+    -o-transform: translate(0, -10px);
+    -webkit-transform: translate(0, -10px);
+    transform: translate(0, -10px);
+}
+
+/* Moving other applicant whenever user mouse hovers on graphics */
+#applicant {
+
+}
+
+#applicant:hover {
+    transform: translate3d(22rem, 0, 0);
+    -moz-transform: translate(22rem, 0);
+    -ms-transform: translate(22rem, 0);
+    -o-transform: translate(22rem, 0);
+    -webkit-transform: translate(22rem, 0);
+    transform: translate(22rem, 0);
+}
