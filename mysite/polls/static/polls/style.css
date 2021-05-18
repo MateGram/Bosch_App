@@ -6,6 +6,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #7fa389;
     color: 	#064a6c;
+    text-align: center;
 }
 
 svg {
@@ -21,14 +22,14 @@ svg {
     font-size: 2rem;
     position: absolute;
     margin-top: 2%;
-    margin-left: 5%;
+    margin-left: 15%;
 }
 
 .applicant-label {
     font-size: 2rem;
     position: absolute;
     margin-top: 15%;
-    margin-left: 55%;
+    margin-left: 65%;
 }
 
 #sam:hover {
