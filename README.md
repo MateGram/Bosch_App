@@ -1,5 +1,5 @@
 # Bosch_App
-Für beste User Experience wird die Verwendung von Chrome empfohlen.
+Für beste User Experience wird die Verwendung von Chrome als Web Browser empfohlen.
 
 Zum ausführen der Datei navigieren in das Verzeichnis
 ``` cd ~/ihr/pfad/Bosch_App/mysite```
